@@ -14,7 +14,7 @@ This means:
 
 ## Queue Interface in Java
 In Java, **Queue** is an **interface** present in:
-##----------------------------------------------------------------------------------------------------------------------------------
+
 
 #circular queue
 # Circular Queue in Java
