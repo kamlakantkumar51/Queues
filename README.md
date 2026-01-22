@@ -1,4 +1,21 @@
 # Queues
+# Queue in Java
+
+## What is a Queue?
+A **Queue** in Java is a **linear data structure** that follows the **FIFO principle**:
+
+> **FIFO – First In, First Out**
+
+This means:
+- The element added **first** is removed **first**
+- Similar to a real-life queue (line) at a ticket counter
+
+---
+
+## Queue Interface in Java
+In Java, **Queue** is an **interface** present in:
+
+
 #circular queue
 # Circular Queue in Java
 
